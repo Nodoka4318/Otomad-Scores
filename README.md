@@ -1,4 +1,5 @@
 # REDZONE-Scores
 音MADミラー, かんたん大島用の楽譜ライブラリ
 
-ぞね系
+
+<strong>プルリク歓迎します</strong>
