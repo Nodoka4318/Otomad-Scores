@@ -1,5 +1,5 @@
-# REDZONE-Scores
+# Otomad-Scores
 音MADミラー, かんたん大島用の楽譜ライブラリ
 
 
-<strong>プルリク歓迎します</strong>
+**プルリク歓迎します**
